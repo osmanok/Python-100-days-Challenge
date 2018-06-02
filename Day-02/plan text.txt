@@ -17,4 +17,13 @@ DAY 02
     leap:
         artik yil mi degil mi
     operator:
-        and, or, arti esittir, eksi esittir 
+        and, or, arti esittir, eksi esittir
+    string:
+        len --> uzunluk
+        title --> ilk harfi buyuk yaz
+        upper --> hepsini buyuk yaz
+        lower --> hepsini kucuk yaz
+        isupper string.isupper() ---> butun string buyuk mu
+        islower --> butun string kucuk mu
+        starwith string.starwith("xd") --> xd ile mi basliyor 0 and 1
+        endwith string.endwith("xd") ---> xd ile mi bitiyor 0 and 1
