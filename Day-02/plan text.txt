@@ -1,0 +1,20 @@
+DAY 02
+    variable1:
+        toplama, cikarma, carpma, bolme, mod alma,
+        us alma, yuvarlama
+    variable2:
+        kullanicadan alarak matematik islemleri
+    variable3:
+        formatlama
+    variable4:
+        variable type
+    variable5:
+        type casting-->tip donusumu
+    centigrad:
+        fahreneit'i centigrad yapan kod
+    circle:
+        yaricapi verilen dairenin cevresini alanini bulmak
+    leap:
+        artik yil mi degil mi
+    operator:
+        and, or, arti esittir, eksi esittir 
