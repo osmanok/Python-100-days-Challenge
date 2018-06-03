@@ -1,0 +1,15 @@
+DAY 03
+    converter.py:
+        cm inc converter
+    grade.py:
+        notun harf degerini bulan program
+    piecewise.py:
+        verilen parcali fonk ornegini cozmek
+    rolldice.py:
+        bir ile alti arasi random bir sayi
+    tax.py:
+        maasini ve sigorta miktarini giren tax'i bulan
+    triangle.py:
+        uc kosesi verilen ucgenin ucgenligi cevresi alani
+    verify.py:
+        giris paneli
