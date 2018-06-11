@@ -1,0 +1,15 @@
+DAY-04:
+    for1.py--->1'den 100'e kadar olan cift sayilari
+    toplayan kod.
+
+    for2.py--->1'dem 100'e kadar olan siralamada ikiser
+    ikiser artan elemanlari toplayan kod.
+
+    for3.py--->for dongusu kullanarak faktoriyel
+    hesaplama yapan kod.
+
+    for4.py--->from math import sqrt --- math kutuphanesininden sqrt fonk unu cikaran satir
+    sqrt karekok alan fonk, asallik bulan kod
+
+    while1.py--->while komutu ile birden yuze yazdirmak
+    
